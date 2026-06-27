@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Vietnam Listed Companies Annual Reports PDF Dataset, 2000–2025"
+authors:
+
+* family-names: "Ngo"
+  given-names: "Phu Thanh"
+  version: "1.0.0"
+  date-released: "2026-06-27"
+  type: dataset
+  url: "https://github.com/YOUR_GITHUB_USERNAME/vietnam-listed-companies-annual-reports"
+  abstract: "This dataset contains annual report PDF files of listed companies on the Vietnamese stock market from 2000 to 2025. The files are organized by stock ticker and accompanied by metadata, checksums, coverage summaries, and processing scripts."
+  keywords:
+* Vietnam stock market
+* listed companies
+* annual reports
+* PDF dataset
+* corporate disclosure
+* financial reporting
+* text mining
+* NLP
+  license: "CC-BY-4.0"
