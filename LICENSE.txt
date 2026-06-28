@@ -1,22 +1,35 @@
-Creative Commons Attribution 4.0 International License
+Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 Copyright (c) 2026 Ngo Phu Thanh
 
-This dataset, metadata, documentation, and related materials are made available under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+This dataset, including all PDF files, metadata, documentation,
+and processing scripts, is licensed under the Creative Commons
+Attribution 4.0 International License.
 
 You are free to:
 
-1. Share — copy and redistribute the material in any medium or format.
-2. Adapt — remix, transform, and build upon the material for any purpose.
+  Share  —  Copy and redistribute the material in any medium or format.
+  Adapt  —  Remix, transform, and build upon the material for any purpose,
+             including commercially.
 
-Under the following terms:
+Under the following condition:
 
-Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+  Attribution  —  You must give appropriate credit to the original author,
+                  provide a link to the license, and indicate if changes
+                  were made. You may do so in any reasonable manner, but
+                  not in any way that suggests the licensor endorses you
+                  or your use.
 
-Suggested citation:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Ngo, P. T. (2026). Vietnam Listed Companies Annual Reports PDF Dataset, 2000–2025 (Version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.xxxxxxx
+Suggested Citation
 
-License information:
+  Ngo, P. T. (2026). Vietnam Listed Companies Annual Reports PDF Dataset,
+  2000–2025 (Version 1.0.0) [Data set]. Zenodo.
+  https://doi.org/10.5281/zenodo.20949551
 
-https://creativecommons.org/licenses/by/4.0/
+Full License Text
+
+  https://creativecommons.org/licenses/by/4.0/

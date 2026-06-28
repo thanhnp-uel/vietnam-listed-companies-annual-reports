@@ -1,22 +1,38 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
-title: "Vietnam Listed Companies Annual Reports PDF Dataset, 2000–2025"
-authors:
 
-* family-names: "Ngo"
-  given-names: "Phu Thanh"
-  version: "1.0.0"
-  date-released: "2026-06-27"
-  type: dataset
-  url: "https://github.com/YOUR_GITHUB_USERNAME/vietnam-listed-companies-annual-reports"
-  abstract: "This dataset contains annual report PDF files of listed companies on the Vietnamese stock market from 2000 to 2025. The files are organized by stock ticker and accompanied by metadata, checksums, coverage summaries, and processing scripts."
-  keywords:
-* Vietnam stock market
-* listed companies
-* annual reports
-* PDF dataset
-* corporate disclosure
-* financial reporting
-* text mining
-* NLP
-  license: "CC-BY-4.0"
+title: "Vietnam Listed Companies Annual Reports PDF Dataset, 2000–2025"
+type: dataset
+version: "1.0.0"
+date-released: "2026-06-26"
+license: "CC-BY-4.0"
+
+doi: "10.5281/zenodo.20949551"
+url: "https://doi.org/10.5281/zenodo.20949551"
+repository-code: "https://github.com/[your-username]/[your-repo]"
+
+authors:
+  - family-names: "Ngo"
+    given-names: "Phu Thanh"
+    email: "thanhnp@uel.edu.vn"
+    affiliation: "University of Economics and Law, Vietnam National University Ho Chi Minh City"
+
+abstract: >
+  This dataset contains annual report PDFs (Báo cáo thường niên) of companies
+  listed on the Vietnamese stock market, covering the period 2000 to 2025.
+  Files are organized by stock ticker and accompanied by a full metadata index,
+  SHA-256 checksums, coverage summaries by year and period, a data dictionary,
+  and Python processing scripts. The dataset is intended to support research in
+  corporate disclosure, accounting and finance, text mining, NLP, ESG analysis,
+  and Vietnamese capital market studies.
+
+keywords:
+  - "Vietnam stock market"
+  - "listed companies"
+  - "annual reports"
+  - "corporate disclosure"
+  - "financial reporting"
+  - "text mining"
+  - "natural language processing"
+  - "ESG disclosure"
+  - "PDF dataset"
